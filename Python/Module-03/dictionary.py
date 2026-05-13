@@ -3,7 +3,7 @@ numbers = [12, 56, 98, 78, 12, 6, 98]
 
 # ২. Dictionary (Key-Value pair হিসেবে ডেটা থাকে)
 person2 = {
-    'name': 'Kala pakhi', 
+    'name': 'nil pakhi', 
     'address': 'kaliapur', 
     'age': 23, 
     'profession': 'student'
