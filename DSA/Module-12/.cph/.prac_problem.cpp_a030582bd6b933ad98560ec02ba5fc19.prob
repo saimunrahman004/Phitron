@@ -1,0 +1,1 @@
+{"name":"Local: prac_problem","url":"c:\\Users\\Online\\Documents\\Phitron\\DSA\\Module-12\\prac_problem.cpp","tests":[{"id":1768283905566,"input":"5\n10 20 30 40 50","output":"50 40 30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Online\\Documents\\Phitron\\DSA\\Module-12\\prac_problem.cpp","group":"local","local":true}

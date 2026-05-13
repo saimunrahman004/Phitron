@@ -1,0 +1,1 @@
+{"name":"Local: copy","url":"c:\\Users\\Online\\Documents\\Phitron\\DSA\\Prac-11.5\\copy.cpp","tests":[{"id":1768146084243,"input":"5\n10 20 30 40 50","output":"10 20 30 40 50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Online\\Documents\\Phitron\\DSA\\Prac-11.5\\copy.cpp","group":"local","local":true}

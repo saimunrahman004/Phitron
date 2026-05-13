@@ -1,0 +1,12 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main ()
+{
+    long long int n,k;
+    cin >> n >> k;
+    if(n ==0) return 0;
+    long long int x = k/n;
+    long long int y = k % n;
+    cout << x << " "<<y;
+    return 0;
+}
