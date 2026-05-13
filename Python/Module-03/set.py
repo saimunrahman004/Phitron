@@ -9,7 +9,7 @@ numbers_set = set(numbers)
 print(numbers_set)
 numbers_set.add(55)
 print(numbers_set)
-numbers_set.remove(56)
+numbers_set.remove(98)
 print(numbers_set)
 
 
